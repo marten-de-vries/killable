@@ -1,6 +1,6 @@
 {
   "name": "killable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Keeps track of a server's open sockets so they can be destroyed at a moment's notice.",
   "main": "index.js",
   "repository": {
